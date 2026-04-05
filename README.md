@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 Software Engineering student | gerankamirovitch
+
 Passionate about game development and full-stack web applications
 
 • Building games and interactive experiences
