@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**gerankamirovitch/gerankamirovitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student | gerankamirovitch
+Passionate about game development and full-stack web applications
 
-Here are some ideas to get you started:
+• Building games and interactive experiences
+• Developing full-stack web applications
+• Learning and experimenting with new technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** C# | Python | JavaScript | HTML | CSS
+**Frameworks & Tools:** Unity | Node.js
+**Version Control:** Git
+
+• Telegram: @gerancum
+• Discord: jymhaw
+
+---
+
+Always open to collaboration and learning new things!
