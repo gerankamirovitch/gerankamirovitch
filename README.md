@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Software Engineering student | gerankamirovitch
+Software Engineering student from Russia | gerankamirovitch
 
 Passionate about game development and full-stack web applications
 
